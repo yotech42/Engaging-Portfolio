@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  width: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  font-family: "Poppins", sans-serif;
+}
+
+.firsttextsection {
+  position: relative;
+  height: 80vh;
+  width: 100vh;
+}
+.firsttextsection h3 {
+  top: 30vh;
+  left: 10vh;
+  display: inline-block;
+  position: relative;
+  font-size: 100px;
+  white-space: nowrap;
+  font-size: 76px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+}
+
+.firsttextsection p {
+  top: 40vh;
+  left: 10vh;
+  display: inline-block;
+  position: relative;
+  font-size: 100px;
+  white-space: nowrap;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+}
+.firsttextsection img {
+  top: 27vh;
+  left: 50vh;
+  float: right;
+  position: relative;
+  width: 25vh;
+  height: 25vh;
+}
+.fotter hr {
+  width: 191vh;
+  height: 1px;
+}
+.leftse p {
+  position: relative;
+  left: 30vh;
+  white-space: nowrap;
+  top: 5vh;
+}
+.rightse p {
+  position: relative;
+  left: 150vh;
+  white-space: nowrap;
+  top: 5vh;
+}
